@@ -1,14 +1,14 @@
 ## C-Encoding-Lyases ##
 
-**C-Encoding-Lyases** ÊÇ±¾ÈËÓ¦¿Î³ÌÉè¼Æ×÷ÒµÒªÇóĞ´µÄÎÄ¼ş¼ÓÃÜ¹¤¾ß.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-»ùÓÚCÓïÑÔ,Ê¹ÓÃÁËgtk2.24¿â.
+**C-Encoding-Lyases** æ˜¯æœ¬äººæ ¹æ®è¯¾ç¨‹è®¾è®¡ä½œä¸šè¦æ±‚ç¼–å†™çš„æ–‡ä»¶åŠ å¯†ç¨‹åº.ç”±Cè¯­è¨€å®ç°,å¹¶åŒ…å«äº†**GTK+ 2.24**åº“
 
-### 2015/4/17 ###
+### 2015/4/18 ###
 
-ÉÏ´« 0.1 °æ,°üº¬Ò»¸ökernelºÍGUI
+ä¸Šä¼ äº† **0.1** ç‰ˆ,åŒ…å«ä¸€ä¸ª**kernel** ä»¥åŠ**GUI**
 
-## ÉêÃ÷ ##
-´ËÏîÄ¿×ñÑ­ GNU GENERAL PUBLIC LICENSE Version 2
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-±¾ÈË²»¶Ô´ËÏîÄ¿µÄÊµ¼Ê°²È«ĞÔÒÔ¼°Ê¹ÓÃ¿ÉÄÜÔì³ÉµÄÈÎºÎÓ°ÏìÔğÈÎ.
+## ç”³æ˜ #
+
+**C-Encoding-Lyases**  éµå¾ªGNU GENERAL PUBLIC LICENSE
+Version 2, June 1991
+
+æ­¤ç¨‹åºä»…ä¾›å­¦ä¹ å‚è€ƒ,å…¶åœ¨å®é™…ç”¨é€”ä¸­çš„å®‰å…¨æ€§æœªç»æµ‹è¯•,ä½¿ç”¨æ­¤ç¨‹åºæ‰€å¯¼è‡´çš„ä»»ä½•å½±å“ä¸ä½œè€…æ— å…³.
